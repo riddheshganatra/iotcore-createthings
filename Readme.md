@@ -1,4 +1,4 @@
-# This code creates AWS IOT things using AWS SDK of node js
+# Create AWS IOT things using AWS SDK of node js
 
 1. create IAM user whith access to aws iot core, update env variables in code
 
