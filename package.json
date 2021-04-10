@@ -1,0 +1,21 @@
+{
+  "name": "iotcore-createthings",
+  "version": "1.0.0",
+  "description": "Medium article for creating AWS IoT core things with certificated at scale",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AWS",
+    "IOT",
+    "core",
+    "Things",
+    "Certificates"
+  ],
+  "author": "Riddhesh Ganatra",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.884.0"
+  }
+}
